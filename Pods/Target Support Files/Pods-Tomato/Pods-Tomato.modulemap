@@ -1,0 +1,6 @@
+framework module Pods_Tomato {
+  umbrella header "Pods-Tomato-umbrella.h"
+
+  export *
+  module * { export * }
+}
